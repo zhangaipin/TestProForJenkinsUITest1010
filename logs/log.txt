@@ -1,0 +1,12 @@
+2020-10-18 22:37:52,209 [main] INFO [my.test.BasePage] - [调试信息] 调用了ChromeDriver驱动，启动浏览器
+2020-10-18 22:37:53,728 [main] INFO [my.test.BasePage] - [调试信息] 调用了get方法，打开了百度页面
+2020-10-18 22:37:54,424 [main] INFO [my.test.BasePage] - [调试信息] 设置
+2020-10-18 22:38:05,120 [main] INFO [my.test.BasePage] - [调试信息] 浏览器关闭
+2020-10-18 22:38:46,681 [main] INFO [my.test.BasePage] - [调试信息] 调用了ChromeDriver驱动，启动浏览器
+2020-10-18 22:38:47,928 [main] INFO [my.test.BasePage] - [调试信息] 调用了get方法，打开了百度页面
+2020-10-18 22:38:48,075 [main] INFO [my.test.BasePage] - [调试信息] 设置
+2020-10-18 22:38:48,931 [main] INFO [my.test.BasePage] - [调试信息] 浏览器关闭
+2020-10-18 22:55:04,578 [main] INFO [my.test.BasePage] - [调试信息] 调用了ChromeDriver驱动，启动浏览器
+2020-10-18 22:55:05,647 [main] INFO [my.test.BasePage] - [调试信息] 调用了get方法，打开了百度页面
+2020-10-18 22:55:05,817 [main] INFO [my.test.BasePage] - [调试信息] 获取的文本内容为：设置
+2020-10-18 22:55:06,667 [main] INFO [my.test.BasePage] - [调试信息] 浏览器关闭

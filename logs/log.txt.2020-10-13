@@ -1,0 +1,5 @@
+2020-10-13 23:29:01,310 [main] INFO [PrintBaiduUI] - [调试信息] 开始了自动化测试
+2020-10-13 23:29:01,311 [main] INFO [PrintBaiduUI] - [调试信息] 调用了ChromeDriver驱动，启动浏览器
+2020-10-13 23:29:59,523 [main] INFO [PrintBaiduUI] - [调试信息] 开始了自动化测试
+2020-10-13 23:29:59,524 [main] INFO [PrintBaiduUI] - [调试信息] 调用了ChromeDriver驱动，启动浏览器
+2020-10-13 23:30:16,365 [main] INFO [PrintBaiduUI] - [调试信息] 测试结束，关闭浏览器
