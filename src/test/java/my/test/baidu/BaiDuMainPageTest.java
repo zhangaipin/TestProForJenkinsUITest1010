@@ -24,6 +24,5 @@ class BaiDuMainPageTest {
     @AfterAll
     static void tearDown() {
         baiDuMainPage.quit();
-
     }
 }
