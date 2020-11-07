@@ -8,6 +8,6 @@ import org.openqa.selenium.By;
 public class BaiDuMainPage extends BaiDuBasePage{
     public void pageGetSomeThing(){
         String text = getTextBy(By.id("s-usersetting-top"));
-        Log.info("获取的文本内容为：" + text);
+        Log.info("获取了内容为：" + text);
     }
 }

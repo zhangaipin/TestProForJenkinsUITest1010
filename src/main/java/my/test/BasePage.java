@@ -23,9 +23,9 @@ public class BasePage {
         this.BaseURL = BaseURL;
         System.setProperty("webdriver.chrome.driver", "F:\\MyStudy\\SeleniumUIDependentFiles\\WebDriver\\chromedriver.exe");
         driver=new ChromeDriver();
-        Log.info("调用了ChromeDriver驱动，启动浏览器");
+        Log.info("启动了浏览器");
         driver.get(BaseURL);
-        Log.info("调用了get方法，打开了百度页面");
+        Log.info("打开了网址："+BaseURL);
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 //        selenium 4.0 use duration
 //        wait=new WebDriverWait(driver, Duration.ofSeconds(10));
@@ -40,7 +40,7 @@ public class BasePage {
 
     public void quit() {
         driver.quit();
-        Log.info("浏览器关闭");
+        Log.info("测试结束，退出了浏览器。");
     }
 
     public void clickBy(By by){
