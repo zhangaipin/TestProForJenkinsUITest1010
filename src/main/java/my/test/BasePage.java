@@ -21,7 +21,7 @@ public class BasePage {
 
     public BasePage(String BaseURL){
         this.BaseURL = BaseURL;
-        System.setProperty("webdriver.chrome.driver", "F:\\MyStudy\\SeleniumUIDependentFiles\\WebDriver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver.exe");
         driver=new ChromeDriver();
         Log.info("启动了浏览器");
         driver.get(BaseURL);
